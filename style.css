@@ -1,0 +1,44 @@
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: #e67410;
+}
+
+.line {
+    height: 6px;
+    background-color: #39FF14;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+iframe {
+    padding: 5px;
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: #e67410;
+}
+
+#bots {
+    width: 100%;
+    height: 800px;
+    background-color: #e67410;
+}
+img{
+    width: 300px;
+    height: 300px;
+    transition: transform.2s;
+}
+img:hover{
+    transform: scale(0.8);
+}
